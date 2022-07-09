@@ -1,0 +1,26 @@
+{
+  "topic": "hornplgd/#",
+  "groupsName": ["Gardu yg berbicara"],
+  "contacts": ["6282114561660"],
+  "messageHeader": " ```*INFO GARDU BERBICARA !* ```",
+  "messageFooter": "Terimakasih...",
+  "substation": "*UPT PULOGADUNG*",
+  "bays": {
+    "0": {
+      "bayName": "UPT PULOGADUNG",
+      "conSuccess": "Koneksi Berhasil !"
+    },
+    "01": {
+      "bayName": "GIS PRIOK TIMUR 150kV",
+      "ind": "Horn Berbunyi Loh ..."
+    },
+    "02": {
+      "bayName": "GI Bekasi 150kV",
+      "ind": "Horn Berbunyi Loh ..."
+    },
+    "03": {
+      "bayName": "GIS JGC 150kV",
+      "ind": "Horn Berbunyi Loh ..."
+    }
+  }
+}

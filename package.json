@@ -1,0 +1,24 @@
+{
+  "name": "mqtt-client-wa",
+  "version": "1.0.0",
+  "description": "Client MQTT yang akan mengirimkan WA melalui API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muflih",
+  "license": "MIT",
+  "dependencies": {
+    "async-mqtt": "^2.6.1",
+    "axios": "^0.22.0",
+    "dayjs": "^1.10.7",
+    "import-modules": "^2.1.0",
+    "mqtt": "^4.2.8",
+    "node-fetch": "^3.0.0",
+    "qs": "^6.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
